@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "forestHES"]
+	path = forestHES
+	url = https://github.com/cran/forestHES
+	shallow = true
+	registered = true
