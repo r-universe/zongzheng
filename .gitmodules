@@ -5,3 +5,9 @@
 [submodule "forestHES"]
 	path = forestHES
 	url = https://github.com/cran/forestHES
+[submodule "forestPSD"]
+	path = forestPSD
+	url = https://github.com/cran/forestPSD
+[submodule "forestSAS"]
+	path = forestSAS
+	url = https://github.com/cran/forestSAS
